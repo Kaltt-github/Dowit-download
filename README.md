@@ -6,13 +6,13 @@
 
 Tus datos quedan guardados y encriptados **en tu propio dispositivo**. 100% en español.
 
-`Versión actual: 0.10.0`
+`Versión actual: 1.0.1`
 
 <br>
 
-[![Descargar para Windows](https://img.shields.io/badge/⬇%20Descargar-Windows_10/11-0078D6?style=for-the-badge&logo=windows11&logoColor=white)](Dowit-windows-x64.zip)
+[![Descargar para Windows](https://img.shields.io/badge/⬇%20Descargar-Windows_10/11-0078D6?style=for-the-badge&logo=windows11&logoColor=white)](https://github.com/Kaltt-github/Dowit-download/releases/latest/download/Dowit-windows-x64.zip)
 
-[![Descargar para Android](https://img.shields.io/badge/⬇%20Descargar-Android-3DDC84?style=for-the-badge&logo=android&logoColor=black)](Dowit-android.apk)
+[![Descargar para Android](https://img.shields.io/badge/⬇%20Descargar-Android-3DDC84?style=for-the-badge&logo=android&logoColor=black)](https://github.com/Kaltt-github/Dowit-download/releases/latest/download/Dowit-android.apk)
 
 </div>
 
@@ -79,4 +79,6 @@ Si un antivirus o el navegador bloquea la descarga, igual podés abrirla desde t
 
 <div align="center">
 <sub>Hecho con Flutter · offline primero · tus datos son tuyos</sub>
+<br>
+<sub>Licencia <a href="LICENSE">MIT</a> · <a href="../../releases">Versiones anteriores</a></sub>
 </div>
