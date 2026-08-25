@@ -67,6 +67,13 @@ Android: desinstalala como cualquier app. Windows: borrá la carpeta; si querés
 </details>
 
 <details>
+<summary><b>¿Cómo verifico que mi descarga es la original?</b></summary>
+Cada archivo publicado muestra su hash <b>SHA-256</b> en la página de la <a href="../../releases">versión</a>. En Windows, abrí una terminal en la carpeta de descarga y ejecutá:<br>
+<code>certutil -hashfile Dowit-windows-x64.zip SHA256</code><br>
+Si el resultado coincide con el hash publicado, tu copia es idéntica a la original. En Android, además, el sistema rechaza cualquier Dowit que no esté firmado con la clave original: ninguna versión intervenida puede instalarse encima.
+</details>
+
+<details>
 <summary><b>¿Es gratis? ¿Tiene anuncios?</b></summary>
 Gratis, sin anuncios, sin compras y sin límites artificiales.
 </details>
