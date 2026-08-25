@@ -14,6 +14,10 @@ Tus datos quedan guardados y encriptados **en tu propio dispositivo**. 100% en e
 
 [![Descargar para Android](https://img.shields.io/badge/⬇%20Descargar-Android-3DDC84?style=for-the-badge&logo=android&logoColor=black)](https://github.com/Kaltt-github/Dowit-download/releases/latest/download/Dowit-android.apk)
 
+[![Usar online](https://img.shields.io/badge/🌐%20Usar_online-Sin_instalar-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kaltt-github.github.io/Dowit-download/)
+
+> 🌐 También podés probarla directo acá, sin instalar nada: **[dowit en tu navegador](https://kaltt-github.github.io/Dowit-download/)**. Los datos quedan guardados y cifrados en ese navegador (no se sincronizan con otras dispositivos) y, al no haber sistema de notificaciones en la web, los recordatorios solo avisan con la pestaña abierta. Después de la primera visita funciona incluso sin conexión.
+
 </div>
 
 ---
