@@ -1,3 +1,5 @@
 # Release assets live only in GitHub Releases (see README badges)
 /Dowit-android.apk
 /Dowit-windows-x64.zip
+/Dowit-macos.dmg
+/Dowit-ios.ipa

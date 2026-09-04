@@ -10,11 +10,13 @@ Tus datos quedan guardados y encriptados **en tu propio dispositivo**. 100% en e
 
 <br>
 
-[![Descargar para Windows](https://img.shields.io/badge/⬇%20Descargar-Windows_10/11-0078D6?style=for-the-badge&logo=windows11&logoColor=white)](https://github.com/Kaltt-github/Dowit-download/releases/latest/download/Dowit-windows-x64.zip)
+[![Descargar para Windows](https://img.shields.io/badge/Descargar_para_Windows-2563EB?style=for-the-badge&logo=windows11&logoColor=white)](https://github.com/Kaltt-github/Dowit-download/releases/latest/download/Dowit-windows-x64.zip)
 
-[![Descargar para Android](https://img.shields.io/badge/⬇%20Descargar-Android-3DDC84?style=for-the-badge&logo=android&logoColor=black)](https://github.com/Kaltt-github/Dowit-download/releases/latest/download/Dowit-android.apk)
+[![Descargar para Android](https://img.shields.io/badge/Descargar_para_Android-2563EB?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Kaltt-github/Dowit-download/releases/latest/download/Dowit-android.apk)
 
-[![Usar online](https://img.shields.io/badge/🌐%20Usar_online-Sin_instalar-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kaltt-github.github.io/Dowit-download/)
+[![Descargar para macOS](https://img.shields.io/badge/Descargar_para_macOS-2563EB?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/Kaltt-github/Dowit-download/releases/latest/download/Dowit-macos.dmg)
+
+[![Descargar para iPhone](https://img.shields.io/badge/Descargar_para_iPhone-2563EB?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/Kaltt-github/Dowit-download/releases/latest/download/Dowit-ios.ipa)
 
 > 🌐 También podés probarla directo acá, sin instalar nada: **[dowit en tu navegador](https://kaltt-github.github.io/Dowit-download/)**. Los datos quedan guardados y cifrados en ese navegador (no se sincronizan con otras dispositivos) y, al no haber sistema de notificaciones en la web, los recordatorios solo avisan con la pestaña abierta. Después de la primera visita funciona incluso sin conexión.
 
@@ -39,20 +41,38 @@ Tus datos quedan guardados y encriptados **en tu propio dispositivo**. 100% en e
 
 > ⚠️ Ese aviso también es normal: la app no está publicada en Play Store, pero es la misma y firmada siempre.
 
+## 🍎 macOS
+
+1. Tocá el botón **Descargar macOS** de arriba.
+2. Abrí **`Dowit-macos.dmg`** y arrastrá Dowit a **Aplicaciones**.
+3. En el primer inicio, si Gatekeeper la bloquea, abrí **Ajustes del Sistema → Privacidad y seguridad** y elegí **Abrir igualmente**.
+
+El DMG contiene una compilación Release optimizada con firma ad hoc, pero no está notarizado ni publicado en la Mac App Store.
+
+## 📱 iPhone
+
+1. Descargá **`Dowit-ios.ipa`** en la PC.
+2. Conectá el iPhone, activá **Modo desarrollador** y abrí tu instalador lateral, por ejemplo [MobAI](https://mobai.run/download).
+3. Pedile que firme e instale el IPA con tu cuenta Apple y aceptá la confianza del desarrollador en el iPhone si aparece.
+
+El IPA es una compilación **Release/AOT**, sin listeners ni servicio de debug. Se publica sin una firma personal para no incluir certificados ni dispositivos registrados en una descarga pública; el instalador lateral la firma para tu iPhone. Con una cuenta Apple gratuita, iOS exige renovar esa firma periódicamente.
+
 ## ✅ Qué necesitás
 
 | | |
 |---|---|
 | 🪟 Windows | 10 u 11 (64 bits) · nada más |
 | 🤖 Android | 6.0 o superior |
+| 🍎 macOS | Una versión compatible con la edición actual de Flutter |
+| 📱 iPhone | iOS 15 o superior · Modo desarrollador · instalador lateral |
 
-No hace falta instalar nada previo: cada versión trae todo incluido.
+Windows, Android y macOS traen todo lo necesario. iPhone requiere firmar el IPA para el dispositivo durante la instalación.
 
 ## ❓ Preguntas frecuentes
 
 <details>
 <summary><b>¿Necesito Internet?</b></summary>
-No. Dowit funciona 100% sin conexión, siempre.
+Dowit funciona sin conexión. Solo necesitás Internet para descargarla y, en iPhone, para el aprovisionamiento inicial o la renovación de la firma.
 </details>
 
 <details>
@@ -62,12 +82,12 @@ Nunca. Se guardan cifrados localmente. No hay servidores, cuentas ni sincronizac
 
 <details>
 <summary><b>¿Cómo actualizo a una versión nueva?</b></summary>
-Descargá la versión nueva e instalala encima: <b>tus datos se conservan</b>. En Windows, extraé la carpeta nueva y usá ese <code>dowit.exe</code>.
+Descargá la versión nueva e instalala encima: <b>tus datos se conservan</b>. En Windows, extraé la carpeta nueva y usá ese <code>dowit.exe</code>; en macOS reemplazá la aplicación; en iPhone firmá e instalá el IPA nuevo con el mismo identificador.
 </details>
 
 <details>
 <summary><b>¿Cómo la desinstalo?</b></summary>
-Android: desinstalala como cualquier app. Windows: borrá la carpeta; si querés dejarla impecable, borrá también la carpeta <code>Dowit</code> dentro de <code>%APPDATA%</code> (ahí viven tus datos).
+Android, macOS e iPhone: desinstalala como cualquier app. Windows: borrá la carpeta; si querés dejarla impecable, borrá también la carpeta <code>Dowit</code> dentro de <code>%APPDATA%</code> (ahí viven tus datos).
 </details>
 
 <details>
