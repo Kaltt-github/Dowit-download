@@ -12,7 +12,7 @@ Tus datos quedan guardados y encriptados **en tu propio dispositivo**. 100% en e
 
 [![Descargar para Windows](https://img.shields.io/badge/Descargar_para_Windows-2563EB?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yIDMuNSAxMC41IDIuM3Y4LjJIMnptOS41LTEuM0wyMiAuN3Y5LjhIMTEuNXpNMiAxMS41aDguNXY4LjJMMiAxOC41em05LjUgMEgyMnY5LjhsLTEwLjUtMS41eiIvPjwvc3ZnPg%3D%3D)](https://github.com/Kaltt-github/Dowit-download/releases/latest/download/Dowit-windows-x64.exe)
 
-[![Windows portable](https://img.shields.io/badge/Windows_portable-2563EB?style=for-the-badge&logo=windows11&logoColor=white)](https://github.com/Kaltt-github/Dowit-download/releases/latest/download/Dowit-windows-x64.zip)
+[![Descargar para Windows (portable)](https://img.shields.io/badge/Descargar_para_Windows_%28portable%29-2563EB?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yIDMuNSAxMC41IDIuM3Y4LjJIMnptOS41LTEuM0wyMiAuN3Y5LjhIMTEuNXpNMiAxMS41aDguNXY4LjJMMiAxOC41em05LjUgMEgyMnY5LjhsLTEwLjUtMS41eiIvPjwvc3ZnPg%3D%3D)](https://github.com/Kaltt-github/Dowit-download/releases/latest/download/Dowit-windows-x64.zip)
 
 [![Descargar para Android](https://img.shields.io/badge/Descargar_para_Android-2563EB?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Kaltt-github/Dowit-download/releases/latest/download/Dowit-android.apk)
 
