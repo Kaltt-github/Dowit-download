@@ -10,9 +10,9 @@ Tus datos quedan guardados y encriptados **en tu propio dispositivo**. 100% en e
 
 <br>
 
-[![Descargar para Windows](https://img.shields.io/badge/Descargar_para_Windows-2563EB?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yIDMuNSAxMC41IDIuM3Y4LjJIMnptOS41LTEuM0wyMiAuN3Y5LjhIMTEuNXpNMiAxMS41aDguNXY4LjJMMiAxOC41em05LjUgMEgyMnY5LjhsLTEwLjUtMS41eiIvPjwvc3ZnPg%3D%3D)](https://github.com/Kaltt-github/Dowit-download/releases/latest/download/Dowit-windows-x64.msix)
+[![Descargar para Windows](https://img.shields.io/badge/Descargar_para_Windows-2563EB?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yIDMuNSAxMC41IDIuM3Y4LjJIMnptOS41LTEuM0wyMiAuN3Y5LjhIMTEuNXpNMiAxMS41aDguNXY4LjJMMiAxOC41em05LjUgMEgyMnY5LjhsLTEwLjUtMS41eiIvPjwvc3ZnPg%3D%3D)](https://github.com/Kaltt-github/Dowit-download/releases/latest/download/Dowit-windows-x64.exe)
 
-[Windows portable (ZIP)](https://github.com/Kaltt-github/Dowit-download/releases/latest/download/Dowit-windows-x64.zip)
+[![Windows portable](https://img.shields.io/badge/Windows_portable-475569?style=for-the-badge&logo=windows11&logoColor=white)](https://github.com/Kaltt-github/Dowit-download/releases/latest/download/Dowit-windows-x64.zip)
 
 [![Descargar para Android](https://img.shields.io/badge/Descargar_para_Android-2563EB?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Kaltt-github/Dowit-download/releases/latest/download/Dowit-android.apk)
 
@@ -20,7 +20,7 @@ Tus datos quedan guardados y encriptados **en tu propio dispositivo**. 100% en e
 
 [![Descargar para iPhone](https://img.shields.io/badge/Descargar_para_iPhone-2563EB?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/Kaltt-github/Dowit-download/releases/latest/download/Dowit-ios.ipa)
 
-> 🌐 También podés probarla directo acá, sin instalar nada: **[dowit en tu navegador](https://kaltt-github.github.io/Dowit-download/)**. Los datos quedan guardados y cifrados en ese navegador (no se sincronizan con otras dispositivos) y, al no haber sistema de notificaciones en la web, los recordatorios solo avisan con la pestaña abierta. Después de la primera visita funciona incluso sin conexión.
+[![Abrir en Web](https://img.shields.io/badge/Abrir_en_Web-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kaltt-github.github.io/Dowit-download/)
 
 </div>
 
@@ -28,11 +28,21 @@ Tus datos quedan guardados y encriptados **en tu propio dispositivo**. 100% en e
 
 ## 🪟 Windows
 
-1. Tocá el botón **Descargar Windows** de arriba.
-2. Abrí **`Dowit-windows-x64.msix`**.
-3. Elegí **Instalar**. Las actualizaciones siguientes se instalan encima y conservan tus datos.
+### Instalador EXE — recomendado
 
-> También podés usar el ZIP portable sin instalar. Esa variante no tiene identidad de paquete, por lo que Windows no puede mostrar las acciones rápidas de Dowit en la barra de tareas.
+1. Tocá **Descargar para Windows** y abrí `Dowit-windows-x64.exe`.
+2. Si SmartScreen muestra una advertencia porque Dowit no tiene un certificado comercial, elegí **Más información → Ejecutar de todas formas**.
+3. Elegí **Instalar**. No requiere permisos de administrador. Para actualizar, instalá el EXE nuevo encima; tus datos se conservan.
+
+Esta variante registra Dowit como aplicación de Windows, agrega su desinstalador y habilita el protocolo y las acciones rápidas de la barra de tareas.
+
+### Windows portable — ZIP
+
+1. Tocá **Windows portable** y descargá `Dowit-windows-x64.zip`.
+2. Hacé clic derecho sobre el ZIP y elegí **Extraer todo…**.
+3. Abrí la carpeta extraída y ejecutá `dowit.exe`.
+
+La edición portable no se instala ni registra el protocolo de Dowit. Para actualizarla, cerrá Dowit y extraé el ZIP nuevo en una carpeta nueva.
 
 ## 🤖 Android
 
@@ -84,7 +94,7 @@ Nunca. Se guardan cifrados localmente. No hay servidores, cuentas ni sincronizac
 
 <details>
 <summary><b>¿Cómo actualizo a una versión nueva?</b></summary>
-Descargá la versión nueva e instalala encima: <b>tus datos se conservan</b>. En Windows, abrí el MSIX nuevo; en macOS reemplazá la aplicación; en iPhone firmá e instalá el IPA nuevo con el mismo identificador.
+Descargá la versión nueva e instalala encima: <b>tus datos se conservan</b>. En Windows, abrí el EXE nuevo; en macOS reemplazá la aplicación; en iPhone firmá e instalá el IPA nuevo con el mismo identificador.
 </details>
 
 <details>
@@ -95,7 +105,7 @@ Desinstalala como cualquier otra app. Si usaste el ZIP portable en Windows, borr
 <details>
 <summary><b>¿Cómo verifico que mi descarga es la original?</b></summary>
 Cada archivo publicado muestra su hash <b>SHA-256</b> en la página de la <a href="../../releases">versión</a>. En Windows, abrí una terminal en la carpeta de descarga y ejecutá:<br>
-<code>certutil -hashfile Dowit-windows-x64.msix SHA256</code><br>
+<code>certutil -hashfile Dowit-windows-x64.exe SHA256</code><br>
 Si el resultado coincide con el hash publicado, tu copia es idéntica a la original. En Android, además, el sistema rechaza cualquier Dowit que no esté firmado con la clave original: ninguna versión intervenida puede instalarse encima.
 </details>
 
