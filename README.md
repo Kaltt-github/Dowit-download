@@ -24,6 +24,8 @@ Tus datos quedan guardados y encriptados **en tu propio dispositivo**. 100% en e
 
 </div>
 
+> ⚠️ **Versiones Apple sin validar:** los artefactos de macOS y iPhone se compilan automáticamente en un runner macOS, pero todavía no se han probado manualmente en una Mac ni en un iPhone físicos. Considéralos experimentales y conserva una copia de tus datos.
+
 ---
 
 ## 🪟 Windows
