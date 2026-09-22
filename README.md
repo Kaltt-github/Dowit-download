@@ -6,7 +6,7 @@
 
 Tus datos quedan guardados y encriptados **en tu propio dispositivo**. 100% en español.
 
-`Versión actual: 1.19.1`
+`Versión actual: 1.24.0`
 
 <br>
 
