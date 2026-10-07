@@ -2,7 +2,7 @@
 
 # 🗓️ Dowit
 
-`Versión actual: 2.0.0`
+`Versión actual: 1.27.0`
 
 </div>
 
