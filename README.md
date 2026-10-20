@@ -6,6 +6,23 @@
 
 </div>
 
+---
+
+## 💬 Quienes ya usan Dowit
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <p><em>«Por fin encuentro una aplicación de calendario que tiene todo lo que siempre he buscado. Es intuitiva, por no mencionar la originalidad de sus opciones de personalización y el hecho de que también está en catalán.»</em></p>
+    </td>
+    <td width="50%" valign="top">
+      <p><em>«It's straightforward, actually easy to use. I found your app useful for keeping down tasks and easy to use when setting dates and appointments.»</em></p>
+    </td>
+  </tr>
+</table>
+
+---
+
 <details>
 <summary><b>Español</b></summary>
 
