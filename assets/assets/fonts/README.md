@@ -8,3 +8,7 @@ Familias: Lora, Commissioner, Comic Relief, Space Grotesk, Varela Round,
 Lobster, Betània Patmos, Courier Prime, Inconsolata, Crimson Text, DynaPuff,
 Crafty Girls y Akaya Kanadaka. Sus textos OFL/Apache originales están en
 `licenses/` y Dowit los registra en la pantalla Licencias.
+
+`dowit_completion/DowitCompletionIcons.ttf` es una fuente de cinco iconos propios,
+generada desde los SVG entregados para Dowit, no una tipografía de Google Fonts.
+Su fuente editable y proceso de generación están en `assets/icons/completion/`.
