@@ -19,6 +19,11 @@
       <p><em>«It's straightforward, actually easy to use. I found your app useful for keeping down tasks and easy to use when setting dates and appointments.»</em></p>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <p><em>«Dowit es una app de calendario muy útil y muy buena. La recomiendo totalmente. Alberga funciones como recordatorios de forma periódica y recomendaciones de emojis para los... Algo que me sorprendió fue que le puedes poner nivel de intensidad a las... Me gustó mucho esa opción. En conclusión, Dowit es una muy buena app de calendario que recomiendo encarecidamente. Muy buena app. Y yo, que no suelo usar muchos calendarios... Es muy fácil de usar, de entender y muy buena app. La recomiendo; de las mejores app de calendarios que usé nunca.»</em></p>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -45,6 +50,18 @@ Tus datos quedan guardados y encriptados **en tu propio dispositivo**. Al primer
 [![Descargar para iPhone](https://img.shields.io/badge/Descargar_para_iPhone-2563EB?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/Kaltt-github/Dowit-download/releases/latest/download/Dowit-ios.ipa)
 
 [![Abrir en Web](https://img.shields.io/badge/Abrir_en_Web-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kaltt-github.github.io/Dowit-download/)
+
+<br>
+
+**Eventos y festivos**
+
+[![Descargar eventos de Argentina](https://img.shields.io/badge/Descargar_eventos_de_Argentina-0F766E?style=for-the-badge)](https://raw.githubusercontent.com/Kaltt-github/Dowit-download/main/calendarios/argentina-2026.dowit)
+
+[![Descargar eventos de España](https://img.shields.io/badge/Descargar_eventos_de_Espa%C3%B1a-0F766E?style=for-the-badge)](https://raw.githubusercontent.com/Kaltt-github/Dowit-download/main/calendarios/espana-2026.dowit)
+
+Importalos desde **Ajustes → Datos → Importar**. Contraseña: **`festivos2026`**.
+
+Incluyen rutinas anuales y fechas específicas de 2026.
 
 </div>
 
@@ -807,6 +824,16 @@ Les teves dades queden desades i encriptades **al teu propi dispositiu**. A la p
 [![Descarrega per a iPhone](https://img.shields.io/badge/Descarrega_per_a_iPhone-2563EB?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/Kaltt-github/Dowit-download/releases/latest/download/Dowit-ios.ipa)
 
 [![Obre al Web](https://img.shields.io/badge/Obre_al_Web-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kaltt-github.github.io/Dowit-download/)
+
+<br>
+
+**Esdeveniments i festius**
+
+[![Descarrega els esdeveniments d’Espanya](https://img.shields.io/badge/Descarrega_esdeveniments_d%27Espanya-0F766E?style=for-the-badge)](https://raw.githubusercontent.com/Kaltt-github/Dowit-download/main/calendarios/espana-2026.dowit)
+
+Importa'ls des de **Configuració → Dades → Importa**. Contrasenya: **`festivos2026`**.
+
+Inclou rutines anuals i dates específiques de 2026.
 
 </div>
 
