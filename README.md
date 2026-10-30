@@ -21,7 +21,7 @@
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <p><em>«Dowit es una app de calendario muy útil y muy buena. La recomiendo totalmente. Alberga funciones como recordatorios de forma periódica y recomendaciones de emojis para los... Algo que me sorprendió fue que le puedes poner nivel de intensidad a las... Me gustó mucho esa opción. En conclusión, Dowit es una muy buena app de calendario que recomiendo encarecidamente. Muy buena app. Y yo, que no suelo usar muchos calendarios... Es muy fácil de usar, de entender y muy buena app. La recomiendo; de las mejores app de calendarios que usé nunca.»</em></p>
+      <p><em>«Dowit es una app de calendario muy útil y muy buena. La recomiendo totalmente. Alberga funciones como recordatorios de forma periódica y recomendaciones de emojis para los eventos. Algo que me sorprendió fue que le puedes poner nivel de intensidad a las alertas. Me gustó mucho esa opción. En conclusión, Dowit es una muy buena app de calendario que recomiendo encarecidamente. Muy buena app. Y yo, que no suelo usar muchos calendarios, creo que es muy fácil de usar, de entender y muy buena app. La recomiendo; es una de las mejores apps de calendarios que usé nunca.»</em></p>
     </td>
   </tr>
 </table>
